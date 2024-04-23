@@ -1,9 +1,9 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p align="justify">
     <h1><span>Good Morning! I'm Brandon Robb</h1></span>
     <h1><span>Welcome to my Github</h1></span>
 </div>
 
-<img align=right src=header_img.png width=500>
+<img align=right src=header_img.png width=400>
 
 <h3>
     I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a
