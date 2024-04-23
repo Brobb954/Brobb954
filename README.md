@@ -5,7 +5,7 @@
 I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a href="https://auburn.edu/">Auburn University</a> pursuing a Bachelor of Computer Science with a graduation date of August 2025
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brobb954&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brobb954&layout=compact&theme=github_dark)
 
 <div>
     <a href="https://www.linkedin.com/in/Brobb954/">
@@ -53,13 +53,6 @@ fn main() {
     println!("{}", application_status);
 }
 ```
-<table>
-  <tr>
-    <td align="left">LeftAlignedWord</td>
-      <td></td>
-    <td align="right">RightAlignedWord</td>
-  </tr>
-</table>
 
 <h2>Military Service:</h2>
 
