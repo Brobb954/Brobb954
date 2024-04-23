@@ -2,7 +2,7 @@
     <h1>Good Morning! I'm Brandon Robb &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Github</h1>
 </p></div>
 
-<img align=right src=header_img.png width=400>
+<img align=right src=header_img.png width=300>
 
 <h2>
     I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a
