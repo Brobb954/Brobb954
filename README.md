@@ -37,7 +37,6 @@ fn applyForInternship(applicant: &Applicant) -> String {
     Let company = "Your Company";
     Let location = "Remote";
     Let duration = "Any";
-    format!("Applying {} for a {} internship at {} ({}) for {} months", applicant.name, internship, company, location, duration);
 
     if company.is_hiring() && applicant.is_qualified() {
         return "You're hired!";
