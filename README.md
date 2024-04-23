@@ -63,10 +63,7 @@ fn main() {
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h2><span>Languages Learned:</h2></span>
-    <h2><span>Languages Learning:</h2></span>
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <span>
+        <span>
         <a href="https://docs.oracle.com/en/java/index.html">
             <img src="https://skillicons.dev/icons?i=java">
         </a>
@@ -79,6 +76,9 @@ fn main() {
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
         </a></span>
+    <h2><span>Languages Learning:</h2></span>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
     <span>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://skillicons.dev/icons?i=js">
