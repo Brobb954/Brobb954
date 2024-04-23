@@ -1,15 +1,14 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <h1><span>Good Morning! I'm Brandon Robb</h1></span>
-    <h1><span>Welcome to my Github</h1></span>
+    <h1><span>Good Morning! I'm Brandon Robb Welcome to my Github</h1></span>
 </div>
 
 <img align=right src=header_img.png width=300>
 
-<p style="font-size: 24px; line-height: 40px">
+<p><h3>
     I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a
         href="https://auburn.edu/">Auburn University</a> pursuing a Bachelor of Computer Science with a graduation date
     of August 2025
-<p></em>
+</h3></p>
 
 <div style="display: flex; justify-content: space-between; align-items: left">
     <a href="https://www.linkedin.com/in/Brobb954/">
