@@ -67,9 +67,9 @@ fn main() {
 
 <br>
 
-<p float="left">
-    <h2><span>Languages Learned:</h2></span>
-        <span>
+<div align="left">
+    <p>
+        <h2>Languages Learned:</h2>
         <a href="https://docs.oracle.com/en/java/index.html">
             <img src="https://skillicons.dev/icons?i=java">
         </a>
@@ -81,9 +81,11 @@ fn main() {
         </a>
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
-        </a></span>
-    <h2><span>Languages Learning:</h2></span>
-    <span>
+        </a><
+    </p>
+</div>
+<div align="right">
+    <h2>Languages Learning:</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://skillicons.dev/icons?i=js">
         </a>
@@ -93,9 +95,8 @@ fn main() {
         <a href="https://www.typescriptlang.org/">
             <img src="https://skillicons.dev/icons?i=ts">
         </a>
-    </span>
-</p>
-
+    </p>
+</div>
 
         
 <h2> Tech Stacks:</h2>
