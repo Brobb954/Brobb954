@@ -24,6 +24,8 @@
     </a>
 </div>
 
+<br clear="left"/>
+
 ```Rust
 struct Applicant {
     name: String,
