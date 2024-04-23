@@ -1,5 +1,5 @@
 <div><p align="right">
-    <h1>Good Morning! I'm Brandon Robb &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Github</h1>
+    <h1 align="left">Good Morning! I'm Brandon Robb </h1> <h1 align="right">Welcome to my Github</h1>
 </p></div>
 
 <img align=right src=header_img.png width=300>
