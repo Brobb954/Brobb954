@@ -1,6 +1,4 @@
-<div><p align="right">
-    <h1 align="left">Good Morning! I'm Brandon Robb </h1> <h1 align="right">Welcome to my Github</h1>
-</p></div>
+<h1 align="center">Good Morning! I'm Brandon Robb </h1>
 
 <img align=right src=header_img.png width=300>
 
