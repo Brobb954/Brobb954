@@ -9,7 +9,8 @@
         href="https://auburn.edu/">Auburn University</a> pursuing a Bachelor of Computer Science with a graduation date
     of August 2025
 </h2>
-
+<br>
+<br>
 <div style="display: flex; justify-content: space-between; align-items: left">
     <a href="https://www.linkedin.com/in/Brobb954/">
         <img src="https://img.shields.io/badge/-Brobb954-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brobb954/"
