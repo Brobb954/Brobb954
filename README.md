@@ -3,7 +3,7 @@
     <h1><span>Welcome to my Github</h1></span>
 </div>
 
-<img align=right src=header_img.png width=300>
+<img align=right src=header_img.png width=500>
 
 <h3>
     I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a
