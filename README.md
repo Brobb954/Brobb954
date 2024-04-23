@@ -60,6 +60,7 @@ fn main() {
 <table width="100%">
   <tr>
     <td align="left">LeftAlignedWord</td>
+      <td></td>
     <td align="right">RightAlignedWord</td>
   </tr>
 </table>
