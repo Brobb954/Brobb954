@@ -57,7 +57,7 @@ fn main() {
     println!("{}", application_status);
 }
 ```
-<table width="100%">
+<table>
   <tr>
     <td align="left">LeftAlignedWord</td>
       <td></td>
