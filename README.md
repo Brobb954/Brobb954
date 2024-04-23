@@ -57,7 +57,9 @@ fn main() {
 }
 ```
 
+<p float="left">
 <h2>Military Service:</h2><img src="USAF.png" width=110><img src=kc-10.png width=300>
+</p>
 
 <br>
 
