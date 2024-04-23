@@ -4,11 +4,9 @@
 
 I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a href="https://auburn.edu/">Auburn University</a> pursuing a Bachelor of Computer Science with a graduation date of August 2025
 
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brobb954)](https://github.com/Brobb954/github-readme-stats)
 
-<br>
 
 <div>
     <a href="https://www.linkedin.com/in/Brobb954/">
