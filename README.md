@@ -58,10 +58,7 @@ fn main() {
 }
 ```
 
-<p style="font-size: 16px">
 <h2>Military Service:</h2><img src="USAF.png" width=110><img src=kc-10.png width=300> <br>
-<div style="font-size: 24px">
-</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <h2><span>Languages Learned:</h2></span>
