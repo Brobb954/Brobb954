@@ -66,7 +66,7 @@ fn main() {
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<p float="left">
     <h2><span>Languages Learned:</h2></span>
         <span>
         <a href="https://docs.oracle.com/en/java/index.html">
@@ -82,8 +82,6 @@ fn main() {
             <img src="https://skillicons.dev/icons?i=py">
         </a></span>
     <h2><span>Languages Learning:</h2></span>
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
     <span>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://skillicons.dev/icons?i=js">
@@ -95,7 +93,10 @@ fn main() {
             <img src="https://skillicons.dev/icons?i=ts">
         </a>
     </span>
-</div>
+</p>
+
+
+        
 <h2> Tech Stacks:</h2>
 <a href="https://www.anchor-lang.com/">
     <img src="anchor.png" width=46>
