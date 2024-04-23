@@ -1,4 +1,4 @@
-<div><p align="justify">
+<div><p align="right">
     <h1>Good Morning! I'm Brandon Robb
     Welcome to my Github</h1>
 </p></div>
