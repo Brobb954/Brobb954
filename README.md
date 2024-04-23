@@ -24,7 +24,7 @@
     </a>
 </div>
 
-<br clear="left"/>
+<br clear="right"/>
 
 ```Rust
 struct Applicant {
