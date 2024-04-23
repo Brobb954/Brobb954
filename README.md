@@ -68,6 +68,7 @@ fn main() {
 <br>
 
 <div align="left">
+<div align="right">
     <p>
         <h2>Languages Learned:</h2>
         <a href="https://docs.oracle.com/en/java/index.html">
@@ -82,7 +83,8 @@ fn main() {
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
         </a>
-<div align="right">
+    </p>
+</div>
     <h2>Languages Learning:</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img src="https://skillicons.dev/icons?i=js">
