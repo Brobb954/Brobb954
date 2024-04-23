@@ -57,10 +57,12 @@ fn main() {
     println!("{}", application_status);
 }
 ```
-<p>
-  <span style="float: left;">LeftAlignedWord</span>
-  <span style="float: right;">RightAlignedWord</span>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">LeftAlignedWord</td>
+    <td align="right">RightAlignedWord</td>
+  </tr>
+</table>
 
 <h2>Military Service:</h2>
 
