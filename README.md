@@ -81,9 +81,7 @@ fn main() {
         </a>
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
-        </a><
-    </p>
-</div>
+        </a>
 <div align="right">
     <h2>Languages Learning:</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
