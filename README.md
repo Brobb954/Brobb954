@@ -1,7 +1,7 @@
-<p align="justify">
+<div><p align="justify">
     <h1><Good Morning! I'm Brandon Robb
     Welcome to my Github</h1>
-</p>
+</p></div>
 
 <img align=right src=header_img.png width=400>
 
