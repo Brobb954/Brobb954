@@ -5,11 +5,11 @@
 
 <img align=right src=header_img.png width=300>
 
-<p style="font-size: 24px; line-height: 40px">
+<h3>
     I'm aspiring software developer with a military background in aviation maintenance, currently a junior at <a
         href="https://auburn.edu/">Auburn University</a> pursuing a Bachelor of Computer Science with a graduation date
     of August 2025
-<p></em>
+</h3>
 
 <div style="display: flex; justify-content: space-between; align-items: left">
     <a href="https://www.linkedin.com/in/Brobb954/">
