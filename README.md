@@ -37,7 +37,7 @@ I'm aspiring software developer with a military background in aviation maintenan
             <img src="https://skillicons.dev/icons?i=java">
         </a>
         <a href="http://go.dev">
-            <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg">
+            <img src="https://skillicons.dev/icons?i=go">
         </a>
         <a href="https://git-scm.com/">
             <img src="https://skillicons.dev/icons?i=git">
@@ -53,9 +53,6 @@ I'm aspiring software developer with a military background in aviation maintenan
         </a>
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
-        </a>
-        <a href="http://go.dev">
-            <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg">
         </a>
     </p>
 </div>
