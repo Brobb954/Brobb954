@@ -22,16 +22,14 @@ I'm aspiring software developer with a military background in aviation maintenan
 
 <br clear="right"/>
 
-<h2>Military Service:</h2>
-
-<p float="left">
+<div align="center">
+    <h2>Military Service:</h2>
     <img src="USAF.png" width=110><img src=kc-10.png width=300>
-</p>
+</div>
 
 <br>
 
 <div align="center">
-    <p>
         <h2>Languages:</h2>
         <a href="https://docs.oracle.com/en/java/index.html">
             <img src="https://skillicons.dev/icons?i=java">
@@ -54,59 +52,60 @@ I'm aspiring software developer with a military background in aviation maintenan
         <a href="https://www.python.org/">
             <img src="https://skillicons.dev/icons?i=py">
         </a>
-    </p>
 </div>
-        
-<h2> Tech Stacks:</h2>
-<a href="https://www.anchor-lang.com/">
-    <img src="anchor.png" width=46>
-</a>
-<a href="https://www.discord.com/">
-    <img src="https://skillicons.dev/icons?i=discord">
-</a>
-<a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker">
-</a>
-<a href="https://github.com/Brobb954">
-    <img src="https://skillicons.dev/icons?i=github">
-</a>
-<a href="https://www.npmjs.com/">
-    <img src="https://skillicons.dev/icons?i=npm">
-</a>
-<a href="https://pnpm.io/">
-    <img src="https://skillicons.dev/icons?i=pnpm">
-</a>
-<a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres">
-</a>
-<a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react">
-</a>
-<a href="https://tauri.app/">
-    <img src="https://skillicons.dev/icons?i=tauri">
-</a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode">
-</a>
-<a href="https://yarnpkg.com/">
-    <img src="https://skillicons.dev/icons?i=yarn">
-</a>
-<h2>Certifications and Licenses:</h2>
-<a href="https://www.coursera.org/professional-certificates/google-data-analytics">
-    <img src="https://img.shields.io/badge/Certificate-Google Data Analytics Professional-darkgreen?style=for-the-badge"
-        height=30 />
-</a>
-</a>
-<a href="https://www.faa.gov/pilots/become">
-    <img src="https://img.shields.io/badge/License-Private Pilot-blue?style=for-the-badge" height=30 />
-</a>
-<a href="https://www.coursera.org/specializations/rust-programming">
-    <img src="https://img.shields.io/badge/Certificate-Rust Programming Specialization-red?style=for-the-badge"
-        height=30 />
-</a>
-<a href="https://www.faa.gov/mechanics/become">
-    <img src="https://img.shields.io/badge/License-Airframe and Powerplant-blue?style=for-the-badge" height=30 />
-</a>
+
+<div align="center">
+    <h2> Tech Stacks:</h2>
+    <a href="https://www.anchor-lang.com/">
+        <img src="anchor.png" width=46>
+    </a>
+    <a href="https://www.discord.com/">
+        <img src="https://skillicons.dev/icons?i=discord">
+    </a>
+    <a href="https://www.docker.com/">
+        <img src="https://skillicons.dev/icons?i=docker">
+    </a>
+    <a href="https://github.com/Brobb954">
+        <img src="https://skillicons.dev/icons?i=github">
+    </a>
+    <a href="https://www.npmjs.com/">
+        <img src="https://skillicons.dev/icons?i=npm">
+    </a>
+    <a href="https://pnpm.io/">
+        <img src="https://skillicons.dev/icons?i=pnpm">
+    </a>
+    <a href="https://www.postgresql.org/">
+        <img src="https://skillicons.dev/icons?i=postgres">
+    </a>
+    <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react">
+    </a>
+    <a href="https://tauri.app/">
+        <img src="https://skillicons.dev/icons?i=tauri">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode">
+    </a>
+    <a href="https://yarnpkg.com/">
+        <img src="https://skillicons.dev/icons?i=yarn">
+    </a>
+</div>
+
+<div align="center">
+    <h2>Certifications and Licenses:</h2>
+    <a href="https://www.coursera.org/professional-certificates/google-data-analytics">
+        <img src="https://img.shields.io/badge/Certificate-Google Data Analytics Professional-darkgreen?style=for-the-badge" height=30 />
+    </a>
+    <a href="https://www.faa.gov/pilots/become">
+        <img src="https://img.shields.io/badge/License-Private Pilot-blue?style=for-the-badge" height=30 />
+    </a>
+    <a href="https://www.coursera.org/specializations/rust-programming">
+        <img src="https://img.shields.io/badge/Certificate-Rust Programming Specialization-red?style=for-the-badge" height=30 />
+    </a>
+    <a href="https://www.faa.gov/mechanics/become">
+        <img src="https://img.shields.io/badge/License-Airframe and Powerplant-blue?style=for-the-badge" height=30 />
+    </a>
+</div>
 <br><br>
 
 <h2>Experience:</h2>
