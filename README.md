@@ -22,38 +22,6 @@ I'm aspiring software developer with a military background in aviation maintenan
 
 <br clear="right"/>
 
-```Rust
-struct Applicant {
-    name: String,
-    college_level: String,
-    education: String,
-}
-
-fn applyForInternship(applicant: &Applicant) -> String {
-    Let internship = "Software Developer";
-    Let company = "Your Company";
-    Let location = "Remote";
-    Let duration = "Any";
-
-    if company.is_hiring() && applicant.is_qualified() {
-        return "You're hired!";
-    } else {
-        return "Sorry! Try again another time.";
-    }
-}
-
-fn main() {
-    let me = Applicant {
-        name: String::from("Brandon Robb"),
-        college_level: String::from("Junior"),
-        education: "Pursuing a B.S. in Computer Science".to_string(),
-    };
-
-    let application_status = applyForInternship(&me);
-    println!("{}", application_status);
-}
-```
-
 <h2>Military Service:</h2>
 
 <p float="left">
@@ -62,27 +30,17 @@ fn main() {
 
 <br>
 
-<div align="left">
-<div align="right">
+<div align="center">
     <p>
-        <h2>Languages Learned:</h2>
+        <h2>Languages:</h2>
         <a href="https://docs.oracle.com/en/java/index.html">
             <img src="https://skillicons.dev/icons?i=java">
         </a>
+        <a href="http://go.dev">
+            <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg">
+        </a>
         <a href="https://git-scm.com/">
             <img src="https://skillicons.dev/icons?i=git">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-            <img src="https://skillicons.dev/icons?i=html">
-        </a>
-        <a href="https://www.python.org/">
-            <img src="https://skillicons.dev/icons?i=py">
-        </a>
-    </p>
-</div>
-    <h2>Languages Learning:</h2>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://skillicons.dev/icons?i=js">
         </a>
         <a href="https://docs.rs/">
             <img src="https://skillicons.dev/icons?i=rust">
@@ -90,15 +48,23 @@ fn main() {
         <a href="https://www.typescriptlang.org/">
             <img src="https://skillicons.dev/icons?i=ts">
         </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+            <img src="https://skillicons.dev/icons?i=html">
+        </a>
+        <a href="https://www.python.org/">
+            <img src="https://skillicons.dev/icons?i=py">
+        </a>
+        <a href="http://go.dev">
+            <img src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GoLang.svg">
+        </a>
     </p>
 </div>
-
         
 <h2> Tech Stacks:</h2>
 <a href="https://www.anchor-lang.com/">
     <img src="anchor.png" width=46>
 </a>
-<a href="https://www.docker.com/">
+<a href="https://www.discord.com/">
     <img src="https://skillicons.dev/icons?i=discord">
 </a>
 <a href="https://www.docker.com/">
@@ -146,31 +112,42 @@ fn main() {
 </a>
 <br><br>
 
-<h2> Projects</h2>
-<ul>
-    <li> <a href="https://github.com/Brobb954/simple_budget">Simple Budget It</a></li>
-    <ul>
-        <li>Created to be a budgeting app that is simple to use but packed with robust features. It is currently
-            functional in python but I am in the process of converting it to a Tauri app which uses a rust back end and
-            a react front end.</li>
-        <li> Right now it simply tracks income and expenses inputed by the user in a excel spreadsheet, with the upgrade
-            to Tauri it will rely on a postgres database for more efficent data storage and retrival. I will also be
-            looking to implement a multiple budget, interface to be able to use it for forcasting months in advance or
-            tracking budget overtime, I would also like to create charts to show trends. </li>
-    </ul>
-    <li><a href="https://github.com/TrustRent/anchor-backend">Trust Rent</a></li>
-    <ul>
-        <li>TrustRent is a cutting-edge web application designed for the Solana network, leveraging the speed and
-            transparency of blockchain to transform the rental market. The TrustRent platform is built with the aim of
-            optimizing rent payments and security deposit management, guaranteeing instant transactions, yielding
-            financial benefits, and fostering trust between tenants and landlords.</li>
-        <li>My role in this project was to create the backend using Anchor, a rust based framework for Solana, to create
-            the smart contracts that would handle the transactions between the tenants and landlords. I also created the
-            database schema and the API endpoints that would be used by the front end to interact with the smart
-            contracts.</li>
-    </ul>
+<h2>Experience:</h2>
+<div>
+  <h3>Bitcoin Health Index</h3>
+  <p><em>Remote</em></p>
+  <p>Consultation and Strategic Development</p>
+  <p><strong>December 2023 - September 2024</strong></p>
+  <ul>
+    <li>Provided technical leadership for cutting-edge Bitcoin analysis tools, including an AI-powered predictive analytics system for forecasting price movements</li>
+    <li>Architected a proprietary Bitcoin Price Health Score, integrating multiple on-chain metrics, market indicators, and network health factors to provide unparalleled market insights</li>
+    <li>Guided the implementation of advanced features including real-time multi-source data feeds, institutional flow tracking, and Lightning Network health monitoring, positioning the platform as a leader in crypto analytics</li>
+  </ul>
+</div>
 
-</ul>
+<div>
+  <h3>TrustRent</h3>
+  <p><em>Remote</em></p>
+  <p>Backend Development on Solana Blockchain</p>
+  <p><strong>April 2023 – October 2023</strong></p>
+  <ul>
+    <li>Spearheaded backend development for a revolutionary rental payment platform on Solana, implementing smart contracts in Rust for instant settlements and yield-generating security deposits</li>
+    <li>Engineered blockchain-based solutions that optimize $753 billion in annual rent payments, dramatically improving efficiency and transparency in the rental market</li>
+    <li>Designed and implemented a first-of-its-kind market for rental coverage liquidity, enhancing economic stability during downturns and providing a new paradigm for tenant-landlord relationships</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Agora Innovations</h3>
+  <p><em>Remote</em></p>
+  <p>Backend and Blockchain Development</p>
+  <p><strong>June 2024 - Present</strong></p>
+  <ul>
+    <li>Developing the backend infrastructure for the website using Go, leveraging a REST API architecture and ensuring Open API compliance to facilitate seamless communication between the frontend and backend components.</li>
+    <li>Designing and implementing a custom smart contract on the Solana blockchain using Rust, to enable secure and efficient transactions and interactions within the platform.</li>
+    <li>Integrating a PostgreSQL database to store and manage user data, ensuring quick and up-to-date information retrieval from the Solana contract, enhancing the overall user experience and performance of the website.</li>
+  </ul>
+</div>
 <!-- <b>Passionate Learner:</b> Always eager to learn new technologies and apply them to real-world problems.
 </p> -->
 </div>
